@@ -1,5 +1,5 @@
 {
-  "name": "GLOBAL-MD",
+  "name": "AI-BOT-XMD",
   "version": "2.0.0",
   "description": "Bot WhatsApp Using Lib Baileys Multi Device",
   "main": "start.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "Whatsapp Bot By GlobalTechInfo"
   ],
-  "author": "GlobalTechInfo",
+  "author": "TcronebHackx-MD",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys" : "latest",
