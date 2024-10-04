@@ -1,5 +1,5 @@
-//subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
-// WHATSAPP CHANNEL: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+//subscribe to my youtube channel: https://youtube.com/@AI-BOT-MD
+// WHATSAPP CHANNEL: https://whatsapp.com/channel/0029Vafg8mVLtOj6eAvlZO0w
 
 const fs = require('fs');
 const toMs = require('ms');
